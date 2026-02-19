@@ -343,4 +343,4 @@ This security policy is reviewed and updated quarterly or as needed when:
 - Deployment processes change
 - Security standards evolve
 
-**Last Updated:** 2024-02-19
+**Last Updated:** 2026-02-19
